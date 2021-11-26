@@ -10,7 +10,7 @@ A concessão de crédito envolve diversas esferas de dados dos clientes, entende
 - Análise Gráfica de Outliers
 - Aplicação da técnica de IQR para identificar e remover outliers
 - Aplicação do Algoritmo de Aprendizado de Máquina Random Forest (ou Floresta Aleatória).
-- Verificar precisão do modelo com a Média de erro absoluto (MAE) e Coeficiente de Determinação($R^2).
+- Verificar precisão do modelo com a Média de erro absoluto (MAE) e Coeficiente de Determinação($R^2$).
 - Deploy do modelo
 - Armazenamento das respostas do modelo a novos dados em 'ANSWER.csv'
 
